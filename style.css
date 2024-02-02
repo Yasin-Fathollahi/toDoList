@@ -1,0 +1,20 @@
+body {
+    color: red;
+    background-color: black;
+}
+
+.list1 {
+    background-color: yellow;
+}
+
+.list2 {
+    background: skyblue;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+li {
+    cursor: pointer;
+}
